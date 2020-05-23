@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanionRespec", "CompanionRespec\CompanionRespec.csproj", "{67941134-5023-4D8B-9584-F2EFBE967922}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanionRespec.UnitTest", "CompanionRespec.UnitTest\CompanionRespec.UnitTest.csproj", "{EDC325ED-CC3B-4292-A729-14E9321488C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67941134-5023-4D8B-9584-F2EFBE967922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67941134-5023-4D8B-9584-F2EFBE967922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67941134-5023-4D8B-9584-F2EFBE967922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67941134-5023-4D8B-9584-F2EFBE967922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC325ED-CC3B-4292-A729-14E9321488C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC325ED-CC3B-4292-A729-14E9321488C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC325ED-CC3B-4292-A729-14E9321488C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC325ED-CC3B-4292-A729-14E9321488C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB2C0538-00EE-4EFA-95B8-69921114F81E}
+	EndGlobalSection
+EndGlobal

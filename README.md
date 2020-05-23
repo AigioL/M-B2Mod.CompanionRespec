@@ -1,1 +1,1 @@
-# M-B2Mod.CompanionRespec
+# MB2Mod.CompanionRespec
